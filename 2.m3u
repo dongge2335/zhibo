@@ -1,4 +1,4 @@
-#EXTM3U
+#extm3u
 #EXTINF:-1 ,CCTV1综合
 rtsp://119.164.60.7:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/32354_Uni.sdp?
 #EXTINF:-1 ,山东卫视
@@ -167,7 +167,7 @@ rtsp://119.164.60.7:1554/iptv/import/Tvod/iptv/001/001/ch17120418055568047747.rs
 rtsp://119.164.60.14:1554/iptv/import/Tvod/iptv/001/001/ch15050917541337365144.rsc/67264_Uni.sdp？
 #EXTINF:-1 ,中国交通
 rtsp://119.164.60.8:1554/iptv/import/Tvod/iptv/001/001/ch20110221445820405906.rsc/90548_Uni.sdp？
-#EXTINF：-1，CCTV4欧洲
+#EXTINF:-1 ,CCTV4欧洲
 rtsp://124.128.255.230:1554/iptv/import/Tvod/iptv/001/001/ch21062215382556856499.rsc/91656_Uni.sdp？
 #EXTINF:-1 ,CCTV4美洲
 rtsp://124.128.255.234:1554/iptv/import/Tvod/iptv/001/001/ch21062215392161397058.rsc/91684_Uni.sdp？
