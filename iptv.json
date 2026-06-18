@@ -1,65 +1,65 @@
 {
-  "spider": "https://oss4liview.moji.com/thd_file/2026/05/14/7443fdcc54d4aebef5998487590ed758.jpg;md5;0370a162a1edc618a5fe426160f8cf89",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "sites": [
+  "蜘蛛": "https://oss4liview.moji.com/thd_file/2026/05/14/7443fdcc54d4aebef5998487590ed758.jpg;md5;0370a162a1edc618a5fe426160f8cf89",
+  "壁纸": "https://深色壁纸.xxooo.cf/",
+  "网站": [
     {
-      "key": "csp_ZTESpider",
-      "name": "联通中兴",
-      "type": 3,
+      "键": "csp_ZTESpider",
+      "名称": "自用站点",
+      "类型"：3，
       "api": "csp_ZTESpider",
       "ext": "1:391d7babdb41db8d4aa11d7bd03a39066954f3dc6870d678436ca0327f703609c507964ddaa89db3cdf78ce4e7da48fe2d0adb21a6cbbd90331a8c9a14425a41b92485384880260057c9e63a00a9638bfc8c2f6a8c7c0d12",
-      "searchable": 1
+      "可搜索的": 1
     },
     {
-      "key": "糯米",
-      "name": "🍓糯米┃多线",
-      "type": 3,
+      "键": "糯米",
+      "名称": "🍓糯米┃多线",
+      "类型"：3，
       "api": "csp_NmyswvGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "超时"：15，
+      "可搜索的": 1,
+      "快速搜索"：1，
+      "可变的"：1
     },
     {
-      "key": "点我切源",
+      "键": "点我切源",
       "name": "新增嘟嘟盘，到【太太太硬了】领免费容量",
-      "type": 3,
-      "api": "csp_DouDouGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "类型"：3，
+      "api"："csp_DouDouGuard"，
+      "索引": 1,
+      "可搜索的": 0,
+      "快速搜索": 0,
+      "可变的": 0
     },
     {
-      "key": "MDrive",
-      "name": "🗂我的云盘┃我配置",
-      "type": 3,
+      "键": "MDrive",
+      "名称": "🗂我的云盘┃我配置",
+      "类型"：3，
       "api": "csp_MyDriveGuard",
-      "changeable": 0,
-      "indexs": 0,
-      "searchable": 1,
-      "style": {
-        "type": "oval"
+      "可变的": 0,
+      "索引": 0,
+      "可搜索的": 1,
+      "样式": {
+        "类型": "椭圆形"
       },
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      "扩展": {
+        "云盘": "tvfan/云盘.txt"
       }
     },
     {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
+      "键": "玩偶",
+      "名字": "👽玩偶哥哥┃4K弹幕",
+      "类型"：3，
       "api": "csp_WoGGGuard",
-      "timeout": 30,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      "超时"：30，
+      "可搜索的": 1,
+      "快速搜索"：1，
+      "可变的": 0,
+      "扩展": {
+        "云盘": "tvfan/云盘.txt"
       }
     },
     {
-      "key": "YGP",
+      "键": "YGP",
       "name": "🚀叨观荐影┃预告片",
       "type": 3,
       "api": "csp_YGPGuard",
