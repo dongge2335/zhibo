@@ -19,9 +19,9 @@
       "ua": "okHttp/Mod-1.5.0.0"
     },
     {
-      "name": "Mursor的IPTV",
+      "name": "世界杯直播",
       "type": 0,
-      "url": "https://live.ottiptv.cc/iptv.m3u?userid=6358670007&sign=726dd757f6cbaf227d553ed931db140a4e959bc161edb561f2b1828e205d4d5df182a57b9a18deeffa0f3cfb2977837f9f63d2577b43a1fcf57af6a381045e2b79f83a879773ad&auth_token=1cda88088a7ac34bf15a414861e9bbc3",
+      "url": "http://82.156.243.185:33389/fwc.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
