@@ -667,21 +667,5 @@
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
     }
-    {
-      "name": "咪咕",
-      "type": 0,
-      "url": "http://www.2335.fun:3000/10010",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    }
-    {
-      "name": "我是歌手",
-      "type": 0,
-      "url": "https://mgtv.ottiptv.cc/mglist.m3u?url=https://mgtv.ottiptv.cc",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    }
   ]
 }
