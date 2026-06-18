@@ -1,39 +1,39 @@
-# scripts/tv_data_collector.py
+# 脚本/tv_data_collector.py
 import requests
 import json
 from datetime import datetime
 import os
 
 def fetch_tv_data():
+    “””"""
+    抓取电视数据并保存   抓取电视数据并保存
     """
-    抓取电视数据并保存
-    """
-    url = "http://www.2335.fun:1006/tv.txt?token=jd19880506"
+    url = "http://vip.2335.fun:51186/tv.m3u?token=10010&url=%E8%81%94%E9%80%9A"
     
-    try:
-        print("开始抓取电视数据...")
+    尝试::
+        打印("开始抓取电视数据...")"开始抓取电视数据...")
         
-        # 设置请求头，避免被拒绝
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-        }
+                # 设置请求头，避免被拒绝
+        headers = {headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }}
         
-        # 抓取数据
-        response = requests.get(url, headers=headers, timeout=30)
-        response.encoding = 'utf-8'  # 设置编码
+        # 抓取数据# 抓取数据
+        response = requests.get(url, headers=headers, timeout=30)response = requests.get(url, headers=headers, timeout=30)
+        response.encoding = 'utf-8'  # 设置编码onse.encoding = 'utf-8'  # 设置编码
         
-        if response.status_code == 200:
-            data_content = response.text
+        if response.status_code == 200::
+            data_content = response.textdata_content = response.text
             
-            # 创建数据目录
-            os.makedirs('data', exist_ok=True)
-            os.makedirs('data/historical', exist_ok=True)
+            # 创建数据目录# 创建数据目录
+            os.makedirs('data', exist_ok=True)os.makedirs('data', exist_ok=True)
+            os.makedirs('data/historical', exist_ok=True)akedirs('data/historical', exist_ok=True)
             
-            # 保存最新数据
-            with open('data/latest_tv.txt', 'w', encoding='utf-8') as f:
-                f.write(data_content)
+            # 保存最新数据# 保存最新数据
+            with open('data/latest_tv.txt', 'w', encoding='utf-8') as f:with open('data/latest_tv.txt', 'w', encoding='utf-8') as f:
+                f.write(data_content)f.write(data_content)
             
-            # 保存带时间戳的历史数据
+            # 保存带时间戳的历史数据# 保存带时间戳的历史数据
             timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
             with open(f'data/historical/tv_data_{timestamp}.txt', 'w', encoding='utf-8') as f:
                 f.write(data_content)
