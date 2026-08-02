@@ -10,14 +10,6 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-        {
-            "key": "csp_ZTESpider",
-            "name": "东哥影视",
-            "type": 3,
-            "api": "csp_ZTESpider",
-            "ext": "1:391d7babdb41db8d4aa11d7bd03a39066954f3dc6870d678436ca0327f703609c507964ddaa89db3cdf78ce4e7da48fe2d0adb21a6cbbd90331a8c9a14425a41b92485384880260057c9e63a00a9638bfc8c2f6a8c7c0d12",
-            "searchable": 1
-        },
 		{
             "key": "预告",
             "name": "新片｜预告",
