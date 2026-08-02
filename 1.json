@@ -4,12 +4,12 @@
     "logo": "./logo.gif",
     "sites": [
         {
-      "key": "csp_ZTESpider",
-      "name": "东哥影视",
-      "type": 3,
-      "api": "csp_ZTESpider",
-      "ext": "1:391d7babdb41db8d4aa11d7bd03a39066954f3dc6870d678436ca0327f703609c507964ddaa89db3cdf78ce4e7da48fe2d0adb21a6cbbd90331a8c9a14425a41b92485384880260057c9e63a00a9638bfc8c2f6a8c7c0d12",
-      "searchable": 1
+            "key": "csp_ZTESpider",
+            "name": "东哥影视",
+            "type": 3,
+            "api": "csp_ZTESpider",
+            "ext": "1:391d7babdb41db8d4aa11d7bd03a39066954f3dc6870d678436ca0327f703609c507964ddaa89db3cdf78ce4e7da48fe2d0adb21a6cbbd90331a8c9a14425a41b92485384880260057c9e63a00a9638bfc8c2f6a8c7c0d12",
+            "searchable": 1
         },
         {
             "key": "豆瓣",
@@ -52,13 +52,13 @@
             "ext": "./XBPQ/兔儿音乐.json"
         },
         {
-      "key": "csp_Kugou",
-      "name": "酷狗｜音乐",
-      "type": 3,
-      "api": "csp_Kugou",
-      "jar": "./jar/Yoursmile.jar",
-      "playerType": 2,
-      "ext": {
+        "key": "csp_Kugou",
+        "name": "酷狗｜音乐",
+        "type": 3,
+        "api": "csp_Kugou",
+        "jar": "./jar/Yoursmile.jar",
+        "playerType": 2,
+        "ext": {
         "classes": [
           {
             "type_name": "酷狗",
@@ -3353,12 +3353,12 @@
     ],
     "lives": [
         {
-      "name": "联通宽带专用",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/kds.txt",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
+        "name": "联通宽带专用",
+        "type": 0,
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/kds.txt",
+        "playerType": 2,
+        "timeout": 10,
+        "ua": "okHttp/Mod-1.5.0.0"
         },
         {
              "name": "拾光频道",
