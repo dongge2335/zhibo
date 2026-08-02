@@ -3,13 +3,6 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "豆瓣｜公众号：拾光趣乐屋",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
       "key": "糯米",
       "name": "🍓糯米┃多线",
       "type": 3,
