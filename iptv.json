@@ -649,6 +649,7 @@
   "hosts": [
     "img1.wsyzy.org=danmu.888484.xyz",
     "fiizvfck.top=danmu.888484.xyz"
+    "cache.ott.fifalive.itv.cmvideo.cn=39.136.124.73"
   ],
   "lives": [
     {
@@ -667,6 +668,4 @@
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
   ]
-  "hosts": [
-    "cache.ott.fifalive.itv.cmvideo.cn=39.136.124.73"
 }
