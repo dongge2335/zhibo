@@ -640,7 +640,8 @@
   "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
   "hosts": [
     "img1.wsyzy.org=danmu.888484.xyz",
-    "fiizvfck.top=danmu.888484.xyz"
+    "fiizvfck.top=danmu.888484.xyz",
+    "cache.ott.fifalive.itv.cmvideo.cn=39.136.124.73"
   ],
   "lives": [
     {
@@ -651,6 +652,14 @@
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
     },
+    {
+      "name": "咪视界",
+      "type": 0,
+      "url": "https://gitlab.com/dongge2335/dongge/-/raw/main/%E5%92%AA%E8%A7%86%E7%95%8C.m3u?ref_type=heads",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    }
     {
       "name": "世界杯直播",
       "type": 0,
