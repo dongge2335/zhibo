@@ -648,7 +648,7 @@
     {
       "name": "联通宽带专用",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/kds.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/msj.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
