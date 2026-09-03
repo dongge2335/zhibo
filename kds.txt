@@ -75,6 +75,39 @@ rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.
 rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch17071714290877281996.rsc/69666_Uni.sdp
 #EXTINF:-1 tvg-name="海洋频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东海洋频道.png" group-title="山东频道" url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz" catchup="default" catchup-source="rtsp://119.180.21.9:1554/iptv/Tvod/iptv/001/001/ch22111116270462496793.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT",山东海洋频道
 rtsp://119.180.21.9:1554/iptv/import/Tvod/iptv/001/001/ch22111116270462496793.rsc/96163_Uni.sdp
+#EXTM3U x-tvg-url="http://iptv.2335.fun:51186/t.xml.gz"
+#EXTINF:-1 tvg-name="烟台新闻" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16123014461934304167.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",烟台新闻
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16123014461934304167.rsc/90180_Uni.sdp?
+#EXTINF:-1 tvg-name="烟台公共" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch17071714494964567265.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",烟台公共
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch17071714494964567265.rsc/90217_Uni.sdp?
+#EXTINF:-1 tvg-name="济宁综合" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch18013014165546118829.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",济宁综合
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch18013014165546118829.rsc/90222_Uni.sdp?
+#EXTINF:-1 tvg-name="泰安综合" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch18041911493947244872.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",泰安综合
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch18041911493947244872.rsc/90197_Uni.sdp?
+#EXTINF:-1 tvg-name="泰安经济生活" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch18041911510673882058.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",泰安经济生活
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch18041911510673882058.rsc/90218_Uni.sdp?
+#EXTINF:-1 tvg-name="临沂经济生活" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch17060116035423523106.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",临沂经济
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch17060116035423523106.rsc/90183_Uni.sdp?
+#EXTINF:-1 tvg-name="临沂经济生活" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch17060116035423523106.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",临沂经济生活
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch17060116035423523106.rsc/90183_Uni.sdp?
+#EXTINF:-1 tvg-name="德州新闻" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16011823425539072540.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",德州新闻
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16011823425539072540.rsc/90266_Uni.sdp?
+#EXTINF:-1 tvg-name="德州经济生活" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16011911004373716512.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",德州经济生活
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16011911004373716512.rsc/90263_Uni.sdp?
+#EXTINF:-1 tvg-name="聊城综合" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16020416412564905060.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",聊城综合
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16020416412564905060.rsc/90256_Uni.sdp?
+#EXTINF:-1 tvg-name="聊城民生" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16020416442503521342.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",聊城民生
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16020416442503521342.rsc/90271_Uni.sdp?
+#EXTINF:-1 tvg-name="东营新闻" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16022410470553749382.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",东营新闻
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16022410470553749382.rsc/90248_Uni.sdp?
+#EXTINF:-1 tvg-name="东营公共" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16022410541394606036.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",东营公共
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16022410541394606036.rsc/90268_Uni.sdp?
+#EXTINF:-1 tvg-name="枣庄新闻综合" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch19011611322349802420.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",枣庄新闻
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch19011611322349802420.rsc/100153_Uni.sdp?
+#EXTINF:-1 tvg-name="威海新闻" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch17092514310714282169.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",威海新闻
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch17092514310714282169.rsc/90210_Uni.sdp?
+#EXTINF:-1 tvg-name="东营新闻" group-title="地方频道" catchup="default" catchup-source="rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16022410470553749382.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT" catchup-days="3",东营新闻综合
+rtsp://124.132.241.138:1554/iptv/import/Tvod/iptv/001/001/ch16022410470553749382.rsc/90248_Uni.sdp?
 #EXTINF:-1 tvg-name="烟台新闻" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/烟台.png" group-title="地方频道" url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz" catchup="default" catchup-source="rtsp://60.212.114.219:1554/iptv/Tvod/iptv/001/001/ch16123014461934304167.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT",烟台新闻
 rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch16123014461934304167.rsc/65147_Uni.sdp
 #EXTINF:-1 tvg-name="烟台公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东2/烟台.png" group-title="地方频道" url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/main/EPG/sggc-desc.xml.gz" catchup="default" catchup-source="rtsp://60.212.114.219:1554/iptv/Tvod/iptv/001/001/ch17071714494964567265.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT",烟台公共
