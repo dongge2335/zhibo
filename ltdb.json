@@ -2,7 +2,7 @@
  "sites": [
     {
       "key": "csp_ZTESpider",
-      "name": "山东联通",
+      "name": "东哥影视",
       "type": 3,
       "api": "csp_ZTESpider",
       "ext": "1:685a43dd32570e6c123e5213204c60b6893777fc744b6c93b538499b2afdcf2bddd345099b59da6281bb5ce457055f898c436accb8eb852e882013ea7fb9f11125ee8d5b9621be7137dc113c93175eb9b3fe40a16cef4cda",
@@ -11,7 +11,7 @@
   ],
   "lives": [
     {
-      "name": "联通中兴",
+      "name": "东哥直播",
       "url": "unicast",
       "api": "csp_ZTESpider",
       "ext": "1:685a43dd32570e6c123e5213204c60b6893777fc744b6c93b538499b2afdcf2bddd345099b59da6281bb5ce457055f898c436accb8eb852e882013ea7fb9f11125ee8d5b9621be7137dc113c93175eb9b3fe40a16cef4cda"
