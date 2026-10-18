@@ -1,0 +1,28 @@
+{
+  "lives": [
+    {
+      "name": "联通单播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/SDU-Unicast.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": ""
+    },
+    {
+      "name": "移动单播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/SDM-Unicast-Rtsp.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": ""
+    },
+    {
+      "name": "电信单播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/SDT-Unicast.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": ""
+    }
+  ]
+}
