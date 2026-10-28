@@ -2,7 +2,7 @@
   "urls": [
     {
       "name": "咪视界TV",
-      "url": "http://192.168.9.1:5555/%E5%92%AA%E8%A7%86%E7%95%8C.m3u"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/%E5%92%AA%E8%A7%86%E7%95%8C.m3u"
     }
   ],
   "lives": [
