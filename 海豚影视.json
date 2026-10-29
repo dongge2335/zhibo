@@ -1553,44 +1553,7 @@
         "static-mozai.4gtv.tv"
     ],
     "lives": [
-		    {
-      "name": "山东联通单播源（通用版）",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/SDU-Unicast.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": ""
-    },
-    {
-      "name": "山东移动单播源（RTSP通用版）",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/SDM-Unicast-Rtsp.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": ""
-    },
-    {
-      "name": "山东移动单播源（通用版）",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/SDM-Unicast.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": ""
-    },
-    {
-      "name": "山东电信单播源（通用版）",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/SDT-Unicast.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": ""
-    },
-		{
-            "name": "🐬咪咕直播",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "http://www.52top.com.cn:678/downloads/migu.txt"
-        }
+
 		],	
 	  "ijk": [
 	  {
