@@ -10,6 +10,12 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影探4K.py"
 		},
+		{
+      "key": "Hongguo",
+      "name": "红果短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/Hongguojs%20vod.js"
+        },
         {
          "key":"AQY",
         "name":"🐬[追剧]爱奇艺 海豚影视接口完全免费，请勿上当受骗",
