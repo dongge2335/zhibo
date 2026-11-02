@@ -27,6 +27,12 @@
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/金牌.py"
         },
         {
+            "key": "七猫.py",
+            "name": "🐬七猫.py",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/七猫.py"
+        },
+        {
             "key": "影探4K",
             "name": "🐬[追剧]影探4K",
             "type": 3,
