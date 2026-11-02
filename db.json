@@ -17,8 +17,14 @@
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/小鸡看看.py"
 		},
 		{
+        	"key": "影视·正经·小鸡看看.py",
+            "name": "🐬影视·正经·小鸡看看.py",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/影视·正经·小鸡看看.py"
+		},
+		{
         	"key": "金牌",
-            "name": "金牌4K",
+            "name": "🐬金牌4K",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/金牌.py"
 		}
