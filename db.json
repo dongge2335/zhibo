@@ -12,13 +12,13 @@
             "key": "影视·正经·小鸡看看",
             "name": "🐬影视·正经·小鸡看看.py",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/影视·正经·小鸡看看.py"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/影视正经小鸡看看.py"
         },
         {
             "key": "动漫·正经·稀饭动漫",
             "name": "🐬动漫·正经·稀饭动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/动漫·正经·稀饭动漫.py"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/动漫正经稀饭动漫.py"
         },
         {
             "key": "金牌",
@@ -43,12 +43,6 @@
             "name": "🐬橘汁视频4K.py",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/橘汁视频4K.py"
-        },
-        {
-            "key": "DJ音乐网.py",
-            "name": "🐬DJ音乐网.py",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/DJ音乐网.py"
         },
         {
             "key": "影探4K",
