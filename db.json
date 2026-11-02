@@ -315,7 +315,7 @@
       "name": "我的央視頻直播",
       "type": 0,
       "url": "",
-      "api": "./央視頻.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/央視頻.py",
       "ext": {}
     }
   ],
