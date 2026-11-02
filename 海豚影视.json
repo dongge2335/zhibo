@@ -137,7 +137,7 @@
     },
     {
       "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
+      "url": "https://dns.quad9.net/dns-query",
       "ips": [
         "9.9.9.9",
         "149.112.112.112"
@@ -148,10 +148,7 @@
 		"mozai.4gtv.tv",
         "static-mozai.4gtv.tv"
     ],
-    "lives": [
-
-		],	
-	  "ijk": [
+    "ijk": [
 	  {
       "group": "软解码",
       "options": [
@@ -321,7 +318,7 @@
       "api": "./央視頻.py",
       "ext": {}
     }
-  ]
+  ],
 "proxy": [
         "file://TV/proxy.json"
     ],
