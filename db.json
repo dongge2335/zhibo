@@ -17,10 +17,16 @@
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/小鸡看看.py"
 		},
 		{
-        	"key": "影视·正经·小鸡看看.py",
+        	"key": "影视·正经·小鸡看看y",
             "name": "🐬影视·正经·小鸡看看.py",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/影视·正经·小鸡看看.py"
+		},
+		{
+        	"key": "动漫·正经·稀饭动漫",
+            "name": "🐬动漫·正经·稀饭动漫",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/动漫·正经·稀饭动漫.py"
 		},
 		{
         	"key": "金牌",
