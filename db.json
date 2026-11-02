@@ -4,12 +4,6 @@
     "wallpaper":"http://tool.teyonds.com/api",
     "warningText": "注意:如果别人倒卖海豚影视接口收费的都是骗子,没有qq群微信群，只有tg官方交流群 TG：@hshsjk9",
     "sites": [
-        {
-        	"key": "影探4K",
-            "name": "🐬[追剧]影探4K",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/影探4K(新).py"
-		},
 		{
         	"key": "小鸡看看",
             "name": "🐬[追剧]小鸡看看",
@@ -34,6 +28,12 @@
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/金牌.py"
 		}
+		        {
+        	"key": "影探4K",
+            "name": "🐬[追剧]影探4K",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/影探4K(新).py"
+		},
     ],
     "parses": [ 
 		{
