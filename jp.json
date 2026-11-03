@@ -1,0 +1,21 @@
+{
+    "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/1.jpg",
+    "sites": [
+        {
+            "key": "金牌",
+            "name": "🐬金牌4K",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/金牌.py"
+        }
+    ],
+    "lives": [
+        {
+            "name": "山东移动",
+            "type": 0,
+            "url": "http://www.2335.fun:5555/咪视界.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": ""
+        }
+    ]
+}
