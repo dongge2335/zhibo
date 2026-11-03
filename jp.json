@@ -12,7 +12,7 @@
         {
             "name": "山东移动",
             "type": 0,
-            "url": "http://www.2335.fun:5555/咪视界.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/SDM-Unicast-Rtsp.m3u",
             "playerType": 2,
             "timeout": 10,
             "ua": ""
