@@ -45,10 +45,22 @@
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/橘汁视频4K.py"
         },
         {
-            "key": "全剧得三端爬虫.py",
-            "name": "🐬全剧得三端爬虫.py",
+            "key": "独播库.py",
+            "name": "🐬独播库.py",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/全剧得三端爬虫.py"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/独播库.py"
+        },
+        {
+            "key": "酷客影院.py",
+            "name": "🐬酷客影院.py",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/酷客影院.py"
+        },
+        {
+            "key": "ok影視央視頻.py",
+            "name": "🐬ok影視央視頻.py",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/ok影視央視頻.py"
         },
         {
             "key": "影探4K",
