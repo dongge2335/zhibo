@@ -57,6 +57,12 @@
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/ok影視央視頻.py"
         },
         {
+            "key": "红果短剧.py",
+            "name": "🐬红果短剧.py",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/红果短剧.py"
+        },
+        {
             "key": "影探4K",
             "name": "🐬[追剧]影探4K",
             "type": 3,
