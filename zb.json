@@ -1,8 +1,8 @@
     "lives": [
     {
-      "name": "山东联通单播源（通用版）",
+      "name": "网页源",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/SDU-Unicast.m3u",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/webview_123.txt",
       "playerType": 2,
       "timeout": 10,
       "ua": ""
