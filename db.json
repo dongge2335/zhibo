@@ -15,12 +15,6 @@
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/七猫.py"
         },
         {
-            "key": "山楂4K.py",
-            "name": "🐬山楂4K.py",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/山楂4K.py"
-        },
-        {
             "key": "橘汁视频4K.py",
             "name": "🐬橘汁视频4K.py",
             "type": 3,
@@ -33,12 +27,6 @@
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/酷客影院.py"
         },
         {
-            "key": "ok影視央視頻.py",
-            "name": "🐬ok影視央視頻.py",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/ok影視央視頻.py"
-        },
-        {
             "key": "动漫·正经·稀饭动漫",
             "name": "🐬动漫·正经·稀饭动漫",
             "type": 3,
@@ -49,24 +37,6 @@
             "name": "🐬红果短剧.py",
             "type": 3,
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/红果短剧.py"
-        },
-        {
-            "key": "小鸡看看",
-            "name": "🐬[追剧]小鸡看看",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/小鸡看看.py"
-        },
-        {
-            "key": "影视·正经·小鸡看看",
-            "name": "🐬影视·正经·小鸡看看.py",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/影视正经小鸡看看.py"
-        },
-        {
-            "key": "影探4K",
-            "name": "🐬[追剧]影探4K",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dongge2335/zhibo/refs/heads/main/影探4K(新).py"
         }
     ],
     "parses": [
